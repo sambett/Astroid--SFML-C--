@@ -1,0 +1,50 @@
+﻿  SMFL tuto2.cpp
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(27,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(32,48): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(111,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(111,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(119,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(148,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(148,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(150,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(177,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(178,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(230,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(231,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(235,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(236,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(267,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(304,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(305,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(306,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(319,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(328,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(328,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(372,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(372,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(376,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(422,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(422,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(431,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(431,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(431,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(443,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(443,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\SMFL tuto2.cpp(472,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SMFL tuto2.vcxproj -> C:\Users\Selma Bettayeb\Desktop\sim4\c++\SFML\SMFL tuto2\x64\Debug\SMFL tuto2.exe
