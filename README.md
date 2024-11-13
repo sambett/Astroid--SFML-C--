@@ -6,19 +6,15 @@
 
 A modern reimplementation of the classic Asteroids arcade game using C++ and SFML library. This project was created as a learning exercise to demonstrate C++ game development skills.
 
-![Asteroids Game Screenshot](placeholder_for_your_screenshot.png)
 
 ## 🎮 Game Features
 
 - **Classic Arcade Experience**: True to the original Asteroids gameplay
 - **Smooth Controls**: 
-  - Rotate ship with arrow keys
-  - Thrust with UP arrow
-  - Fire with SPACE
 - **Physics-Based Movement**: Realistic momentum and inertia
-- **Progressive Difficulty**: Game becomes more challenging as score increases
+- **Progressive Difficulty**: Game becomes more challenging as time increases
 - **Particle Effects**: Visual feedback for explosions and thrust
-- **Sound Effects**: Retro-style audio for actions and collisions
+- **Sound Effects**: Engaging Background music
 
 ## 🛠️ Technical Features
 
@@ -59,18 +55,9 @@ cmake ..
 make
 ```
 
-## 🎯 How to Play
-
-1. Run the compiled executable
-2. Use arrow keys to control the ship
-3. SPACE to shoot
-4. Destroy asteroids to score points
-5. Avoid collisions with asteroids
-6. Press ESC to pause/exit
-
 ## 🎥 Gameplay Demo
 Check out the gameplay video:
-[Watch on YouTube](https://youtu.be/YOUR_VIDEO_ID)
+[Watch on YouTube](https://youtu.be/pwUjWg32124)
 
 ## 📝 Learning Outcomes
 
@@ -83,27 +70,7 @@ This project helped me learn:
 - Audio integration
 - Game architecture design
 
-## 🚧 Future Improvements
 
-- [ ] Add power-ups
-- [ ] Implement high score system
-- [ ] Add different enemy types
-- [ ] Include background music
-- [ ] Create menu system
-- [ ] Add visual effects for ship thrust
-
-## 🤝 Contributing
-
-While this is a learning project, suggestions and feedback are welcome! Feel free to:
-1. Fork the project
-2. Create a feature branch
-3. Submit a pull request
-
-## 📫 Contact
-
-Feel free to reach out if you have questions or suggestions!
-
-## 📄 License
 
 This project is open source and available under the MIT License.
 
